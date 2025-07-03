@@ -123,6 +123,9 @@ This project successfully automates ticket routing in ServiceNow, improving reso
 - 🔐 ACL & Role-Based Access
 - 🗃️ Custom Tables and Forms
 
+  ## *** Demo video link ***
+  - https://drive.google.com/file/d/1OwyKhF19IZVmen1gBp8-J72a4vVN9Xo9/view?usp=drive_link
+
 ---
 
 
